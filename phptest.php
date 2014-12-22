@@ -1,4 +1,5 @@
 <?
 phpinfo();
 /*Test*/
+echo "TETST";
 ?>
